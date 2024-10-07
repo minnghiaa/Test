@@ -1,0 +1,388 @@
+﻿<style>
+    .main1 {
+        border: 1px solid #ccc;
+        padding: 10px;
+        margin: 20px;
+    }
+
+    .item2 {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 10px;
+    }
+
+    .label1 {
+        font-weight: bold;
+    }
+
+    .value1 {
+        color: #ff0000;
+    }
+
+    .freeship {
+        text-align: center;
+        color: #008000;
+        font-weight: bold;
+    }
+
+    small {
+        font-size: 12px;
+        color: #888;
+    }
+
+    body {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        background-color: whitesmoke;
+    }
+
+    .box {
+        background-color: whitesmoke;
+        width: 100%;
+    }
+
+        .box .top {
+            display: flex;
+            justify-content: space-between;
+            background-color: white;
+            padding: 10px;
+        }
+
+            .box .top .logotiki {
+                width: 300px;
+                height: 120px;
+            }
+
+    .search {
+        display: flex;
+        align-items: center;
+        box-shadow: 0px 0px 5px rgba(0, 0, 0, 0, 15);
+        border-radius: 5px;
+        border: 1px solid gray;
+        max-width: fit-content;
+        overflow: hidden;
+        height: 30px;
+    }
+
+        .search button {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding-inline: 10px;
+            padding-block: 5px;
+            margin-inline: -2px;
+            border: none;
+            background-color: white;
+            height: 20px;
+            color: blue;
+        }
+
+        .search input {
+            padding-inline: 5px;
+            padding-block: 5px;
+            border-radius: none;
+            border: none;
+            width: 300px;
+        }
+
+    .find p {
+        font-size: 14px;
+        color: grey;
+    }
+
+    .topright {
+        display: flex;
+        gap: 25px;
+        flex-direction: column;
+        width: 300px;
+    }
+
+        .topright .icon {
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+        }
+
+    .logotiki {
+        width: 80px;
+    }
+
+    .top {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .cart {
+        width: 100%;
+        margin: 0 auto;
+        padding: 10px;
+    }
+
+    .cart-table {
+        width: 40%;
+        border-collapse: collapse;
+    }
+
+    .local {
+        width: 100%;
+    }
+
+        .local i {
+            float: right;
+        }
+
+    .main {
+        display: grid;
+        grid-template-columns: 2.5fr 1fr;
+    }
+
+    .item {
+        display: flex;
+        align-items: center;
+        background-color: white;
+        padding-inline: 10px;
+    }
+
+    .phone {
+        display: flex;
+        align-items: center;
+    }
+
+    .card {
+        display: block;
+        padding-left: 10px;
+    }
+
+    .text {
+        display: flex;
+        justify-content: space-between;
+        float: right;
+        flex: 1;
+        color: gray;
+        align-items: center;
+    }
+
+        .text input {
+            width: 20px;
+        }
+
+    .item img {
+        width: 350px;
+    }
+
+    .container {
+        background-color: white;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+
+    .container {
+        display: flex;
+        align-items: center;
+        background-color: white;
+        padding: 10px;
+        border-radius: 5px;
+        box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+        .container img {
+            width: 30px;
+            height: 30px;
+            margin-right: 10px;
+            padding: 10px;
+        }
+
+
+    .btn {
+        background-color: blue;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    .items {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .label {
+        font-weight: bold;
+    }
+
+    .mains {
+        border: 1px solid #ccc;
+        padding: 10px;
+        margin: 20px;
+    }
+
+    .value {
+        float: right;
+    }
+
+    .main1 {
+        border: 1px solid #ccc;
+        padding: 10px;
+        margin: 20px;
+    }
+
+    .item2 {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 10px;
+    }
+
+    .label1 {
+        font-weight: bold;
+    }
+
+    .value1 {
+        color: #ff0000;
+    }
+
+    .freeship {
+        text-align: center;
+        color: blue;
+        font-weight: bold;
+    }
+
+    small {
+        font-size: 12px;
+        color: #888;
+    }
+</style>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="bai1.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+    <div class="box">
+        <div class="top">
+            <div>
+                <img src="~/Content/Images/download.png"  class="logotiki"/>
+            </div>
+            <div class="find">
+                <div class="search">
+                    <button>
+                        <i class="fas fa-search" style="color: gray;"></i>
+                    </button>
+                    <input type="text">
+                    <button style="border-left: 0.5px solid gray;">Tìm kiếm</button>
+                </div>
+                <p>Khoẻ đẹp nhà cửa sách thể thao trái cây thịt,trứng rau củ quả sữa,bơ,phô mai hải sản gạo,mì ăn liền </p>
+            </div>
+            <div class="topright">
+                <div class="icon">
+                    <i class="fas fa-home fa-xs">Trang chủ</i>
+                    <i class="fas fa-crown fa-xs">Astra</i>
+                    <i class="far fa-smile-wink fa-xs">tài khoản</i>
+                    <i class="fas fa-shopping-cart fa-xs" style="color: blue; border-left: 0.5px solid gray; padding-left: 20px;"></i>
+                </div>
+                <div class="local">
+                    <i class="fas fa-map-marker-alt" style="color: gray;">Giao đến: <a href="#">Q.12, p.Hiệp thành tp.HCM</a></i>
+                </div>
+            </div>
+        </div>
+        <h3>GIỎ HÀNG</h3>
+        <div class="main">
+            <div class="left">
+                <div class="item">
+                    <div style="flex: 1;"> <input type="checkbox"> Tất cả &#40;2 sản phẩm&#41;</div>
+                    <div class="text">
+                        <p>đơn giá</p>
+                        <p>số lượng</p>
+                        <p>thành tiền</p>
+                        <p><i class="fas fa-trash"></i></p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="phone">
+                        <input type="checkbox"> <i class="fas fa-store fa-xs" style="color: gray;">GIA DỤNG VIỆT ></i>
+                    </div>
+                    <div class="item">
+                        <input type="checkbox">
+                        <div style="flex: 1;">
+                            <img src="~/Content/Images/samsungA54.PNG" />
+                        </div>
+                        <div class="text">
+                            <p style="color: black;">8.480.000đ</p>
+                            <div class="quantity">
+                                <button>-</button>
+                                <input value="1">
+                                <button>+</button>
+                            </div>
+                            <p style="color: red;">8.480.000đ</p>
+                            <p><i class="fas fa-trash"></i></p>
+                        </div>
+                    </div>
+                    <br>
+                    <input type="checkbox"> <i class="fas fa-store fa-xs" style="color: gray;">TIKI TRADING ></i>
+                    <div class="item">
+                        <input type="checkbox">
+                        <div style="flex: 1;">
+                            <img src="~/Content/Images/A55.PNG" />
+                        </div>
+                        <div class="text">
+                            <p style="color: black;">8.990.000đ</p>
+                            <div class="quantity">
+                                <button>-</button>
+                                <input value="1">
+                                <button>+</button>
+                            </div>
+                            <p style="color: red;">8.990.000đ</p>
+                            <p><i class="fas fa-trash"></i></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="right">
+                <div class="container">
+                    <div class="text" style="color: black;">Tiki khuyến mãi</div>
+                    <div class="option">Có thể chọn 2</div><i class="fas fa-exclamation-circle"></i>
+                </div>
+                <div class="container">
+                    <img src="~/Content/Images/zalopay.png" />
+                    <div class="text">Giảm 50K</div>
+                    <i class="fas fa-exclamation-circle"></i>
+                    <button class="btn">Áp Dụng</button>
+                </div>
+                <div class="container">
+                    <i class="fas fa-ticket-alt" style="color: blue;"></i>
+                    <span class="text" style="color: blue;">Chọn hoặc nhập khuyến mãi khác</span>
+                </div>
+                <div class="mains">
+                    <div class="items">
+                        <span class="label">Tạm tính:</span>
+                        <span class="value">8.480.000đ</span>
+                    </div>
+                    <div class="main1">
+                        <div class="item2">
+                            <span class="label1">Tổng tiền:</span>
+                            <span class="value1">8.480.000đ</span>
+                            <small>(Đã bao gồm VAT nếu có)</small>
+                        </div>
+                        <div class="freeship">
+                            FREESHIP đã được áp dụng!
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>

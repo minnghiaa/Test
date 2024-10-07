@@ -1,0 +1,158 @@
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\LeMinhNghia_KtrFE.dll.config
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\LeMinhNghia_KtrFE.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\LeMinhNghia_KtrFE.pdb
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\csc.exe
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\csc.exe.config
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\csc.rsp
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\csi.exe
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\csi.exe.config
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\csi.rsp
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\Microsoft.Managed.Core.targets
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.AppContext.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Collections.Immutable.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Console.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Globalization.Calendars.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.IO.Compression.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.IO.FileSystem.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Net.Http.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Net.Sockets.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Reflection.Metadata.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.ValueTuple.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Xml.XPath.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\vbc.exe
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\vbc.exe.config
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\vbc.rsp
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\VBCSCompiler.exe
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\VBCSCompiler.exe.config
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\Antlr3.Runtime.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\Microsoft.Web.Infrastructure.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\Newtonsoft.Json.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\System.Web.Helpers.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\System.Web.Mvc.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\System.Web.Optimization.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\System.Web.Razor.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\System.Web.WebPages.Deployment.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\System.Web.WebPages.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\System.Web.WebPages.Razor.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\WebGrease.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\System.Web.Helpers.xml
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\System.Web.Mvc.xml
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\System.Web.Optimization.xml
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\System.Web.Razor.xml
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\System.Web.WebPages.xml
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\System.Web.WebPages.Deployment.xml
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\System.Web.WebPages.Razor.xml
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\Newtonsoft.Json.xml
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\Antlr3.Runtime.pdb
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\obj\Debug\LeMinhNghia_KtrFE.csproj.AssemblyReference.cache
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\obj\Debug\LeMinhNghia_KtrFE.csproj.CoreCompileInputs.cache
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\obj\Debug\LeMinhNghia_KtrFE.csproj.CopyComplete
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\obj\Debug\LeMinhNghia_KtrFE.dll
+D:\LeMinhNghia\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\obj\Debug\LeMinhNghia_KtrFE.pdb
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\LeMinhNghia_KtrFE.dll.config
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\LeMinhNghia_KtrFE.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\LeMinhNghia_KtrFE.pdb
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\csc.exe
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\csc.exe.config
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\csc.rsp
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\csi.exe
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\csi.exe.config
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\csi.rsp
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.AppContext.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Collections.Immutable.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Console.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Globalization.Calendars.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.IO.Compression.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.IO.FileSystem.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Net.Http.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Net.Sockets.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Reflection.Metadata.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.ValueTuple.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Xml.XPath.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\vbc.exe
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\vbc.exe.config
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\vbc.rsp
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\VBCSCompiler.exe
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\roslyn\VBCSCompiler.exe.config
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\Antlr3.Runtime.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\Microsoft.Web.Infrastructure.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\Newtonsoft.Json.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\System.Web.Helpers.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\System.Web.Mvc.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\System.Web.Optimization.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\System.Web.Razor.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\System.Web.WebPages.Deployment.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\System.Web.WebPages.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\System.Web.WebPages.Razor.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\WebGrease.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\System.Web.Helpers.xml
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\System.Web.Mvc.xml
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\System.Web.Optimization.xml
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\System.Web.Razor.xml
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\System.Web.WebPages.xml
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\System.Web.WebPages.Deployment.xml
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\System.Web.WebPages.Razor.xml
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\Newtonsoft.Json.xml
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\Antlr3.Runtime.pdb
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\obj\Debug\LeMinhNghia_KtrFE.csproj.AssemblyReference.cache
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\obj\Debug\LeMinhNghia_KtrFE.csproj.CoreCompileInputs.cache
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\obj\Debug\LeMinhNg.AD3BC6C5.Up2Date
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\obj\Debug\LeMinhNghia_KtrFE.dll
+D:\Bài tập\THWeb\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\LeMinhNghia_KtrFE\obj\Debug\LeMinhNghia_KtrFE.pdb
